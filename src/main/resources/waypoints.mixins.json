@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.nedan.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "waypoints.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "GameRendererAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
